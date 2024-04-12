@@ -10,3 +10,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] list syntax is required
+- [x] the item is complete
+- [ ] the item is not complete
